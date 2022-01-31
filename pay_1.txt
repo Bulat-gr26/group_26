@@ -3,3 +3,5 @@ asdf
 Autotest_Check
 zxcc
 bnmnn
+Vadim_developer_tasks
+Bulat_developer_tasks
